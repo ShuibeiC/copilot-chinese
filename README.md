@@ -1,7 +1,7 @@
 # copilot-chinese中文文档（非官方）
 # Getting Started with GitHub Copilot in JetBrains 
 
-
+```
 - [Installing the JetBrains extension](#installing)
 - [Seeing your first suggestion](#first-suggestion)
 - [Choosing alternate suggestions](#alternates)
@@ -11,16 +11,16 @@
 - [Keyboard shortcuts](#shortcuts)
 - [Enabling or disabling GitHub Copilot](#enabling)
 - [Learn More](#more)
-
+```
 - [安装JetBrains扩展](#installing)
-- [Seeing your first suggestion](#first-suggestion)
-- [Choosing alternate suggestions](#alternates)
-- [Getting more suggestions](#more-suggestions)
-- [Generating code from a comment](#code-from-comment)
-- [More examples](#more-examples)
-- [Keyboard shortcuts](#shortcuts)
-- [Enabling or disabling GitHub Copilot](#enabling)
-- [Learn More](#more)
+- [来看看给你的第一个建议](#first-suggestion)
+- [在可供选择的选项中进行选择](#alternates)
+- [获取更多的建议](#more-suggestions)
+- [从注释生成代码](#code-from-comment)
+- [更多案例](#more-examples)
+- [快捷键](#shortcuts)
+- [打开或关闭](#enabling)
+- [更多](#more)
 
 <a name="installing"></a>
 ## 1. Installing the JetBrains extension
@@ -98,7 +98,7 @@ GitHub Copilot will attempt to match your code's context and style. You can edit
 它会尝试与你的编写风格和内容进行适配，你可以按照自己的想法对建议进行修改
 <a name="alternates"></a>
 ## 3. Choosing alternate suggestions
-## 在可供选择的选项中进行选择
+## 3.在可供选择的选项中进行选择
 For any given input, GitHub Copilot can provide multiple suggestions. 
 As the developer you are always in charge; you can select which suggestion to use, or reject them all.
 对于任何给定的输入，它可以提供多种建议，作为开发者的你可以掌握一切，你可以选择其中一个，也可以拒绝所有。
